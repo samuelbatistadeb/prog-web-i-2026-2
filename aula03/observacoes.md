@@ -1,4 +1,3 @@
-````markdown
 # Observações sobre elementos HTML
 
 ## 1. Elementos Block e Inline
